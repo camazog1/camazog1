@@ -2,8 +2,11 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/CarlosMazoGil)
 
+**Systems Engineering student with specialization in Python, JavaScript, HTML, C, C++, C#, and Java** Experience in independent projects using these and other technologies, with a focus on the development of web pages and web applications.
 
+**I develop technical content** focused primarily on programming and software development, ranging from web projects to applications in various languages. I am committed to continuous learning and constant improvement of my skills.
 
+**I work independently** and I share my knowledge through university consulting and independent classes. I also have a technical degree in architectural drawing, which gives me additional skills in design and graphic representation. My goal is to continue growing professionally and contribute my knowledge to the technology community.
 
 <!--
 **camazog1/camazog1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
