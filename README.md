@@ -2,7 +2,7 @@
 
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/CarlosMazoGil)
 
-**Systems Engineering student with specialization in Python, JavaScript, HTML, C, C++, C#, and Java** Experience in independent projects using these and other technologies, with a focus on the development of web pages and web applications.
+**Systems Engineering student with specialization in Python, JavaScript, HTML, C++, and Java** Experience in independent projects using these and other technologies, with a focus on the development of web pages and web applications.
 
 **I develop technical content** focused primarily on programming and software development, ranging from web projects to applications in various languages. I am committed to continuous learning and constant improvement of my skills.
 
